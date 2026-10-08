@@ -1,0 +1,18 @@
+# Oracle files
+*.log
+*.trc
+*.dmp
+*.tmp
+
+# SQL Developer
+.sqldeveloper/
+
+# VS Code
+.vscode/
+
+# IntelliJ / IDE
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
